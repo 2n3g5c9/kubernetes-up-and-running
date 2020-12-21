@@ -4,7 +4,7 @@
 
 <br />
 
-<div align="center">Examples from "Kubernetes: Up & Running, 2nd Edition" published by O'Reilly(includes config fixes for apps/v1)</div>
+<div align="center">Examples from "Kubernetes: Up & Running, 2nd Edition" published by O'Reilly (includes config fixes for apps/v1)</div>
 
 <br />
 
